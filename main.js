@@ -43,7 +43,7 @@ while (time < 12)
 // end Game //
 console.log('\n================================================================');
 console.log(`\nGAME OVER\n`)
-console.log(`\nThe time is ${time}:00am. 
+console.log(`\nThe time is ${time}:00pm. 
 You caught: ${caughtFish.length} fish
 total weight: ${calcWeight()} lbs 
 total bank: $${calcCost()}\n`);
